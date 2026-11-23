@@ -1,2 +1,2 @@
 # tutorials
-Practice project repositories
+Practice project repositories for Jayanta
